@@ -4,7 +4,7 @@ Export data from the database to Excel and CSV files in PHP without using the li
 1) Download the repository from https://github.com/sundarsau/export-excel-csv-php
 2) Extract all the files in a folder under xampp/htdocs
 3) Create the tables in "test" database in MySQL by running the .sql file
-4) Run localhost/<folder name> in the browser. <folder name> is the project folder under  xampp/htdocs
+4) Run localhost/(folder name) in the browser. <folder name> is the project folder under  xampp/htdocs
 # License
 This is an MIT license, you can modify the code according to your requirements
 
